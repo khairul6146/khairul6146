@@ -82,10 +82,10 @@ My work bridges modern full-stack web ecosystems (**Next.js**, **FastAPI**, **Ty
 
 <div align="center">
   <a href="https://github.com/khairul6146">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=khairul6146&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=38bdf8&text_color=c9d1d9" alt="Khairul's GitHub Stats" height="165" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=khairul6146&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=38bdf8&text_color=c9d1d9" alt="Khairul's GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/khairul6146">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khairul6146&layout=compact&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165" />
+    <img src="https://streak-stats.demolab.com/?user=khairul6146&theme=tokyonight&hide_border=false&border_color=30363d&background=0d1117&ring=58a6ff&fire=38bdf8&currStreakLabel=7ee787&sideLabels=c9d1d9&dates=8b949e" alt="Khairul's Streak Stats" height="165" />
   </a>
 </div>
 
